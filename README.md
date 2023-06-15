@@ -1,1 +1,1 @@
-# react-native-redux
+# Redux-with-React-native
